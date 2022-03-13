@@ -6,4 +6,4 @@
 
 
 - 자세한 프로젝트 진행과정 <br>
-https://edorrr.tistory.com/category/프로젝트/데이터%20%분석20%3A%20배구
+<a href="https://edorrr.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%3A%20%EB%B0%B0%EA%B5%AC">프로젝트/데이터분석 : 배구</a>
