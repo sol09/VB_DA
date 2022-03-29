@@ -4,12 +4,12 @@
 
 ✔ 사용한 데이터
 
-  1. 선수 데이터 (이름, 소속 구단, 포지션, 공격 내용, 수비 내용 등)
-     출처: http://www.welcomebanktoprankings.co.kr/volleyball/
-  2. 경기 데이터 (경기 날짜, 팀, 스코어, 승리팀 등)
-     출처 : https://www.kovo.co.kr/game/v-league/11110_schedule_list.asp?season=018&team=&s_part=2&yymm=2021-10&r_round= 등
-  3. 경기 세부 데이터 (공격 내용, 수비 내용 등)
-     출처 : https://m.sports.naver.com/game/20211016018F2/record 등
+  1. 선수 데이터 (이름, 소속 구단, 포지션, 공격 내용, 수비 내용 등)<br>
+     ( http://www.welcomebanktoprankings.co.kr/volleyball/ )
+  2. 경기 데이터 (경기 날짜, 팀, 스코어, 승리팀 등)<br>
+     ( https://www.kovo.co.kr/game/v-league/11110_schedule_list.asp?season=018&team=&s_part=2&yymm=2021-10&r_round= 외 )
+  3. 경기 세부 데이터 (공격 내용, 수비 내용 등)<br>
+     ( https://m.sports.naver.com/game/20211016018F2/record 외 )
 
 ✔ 사용한 도구 : 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
